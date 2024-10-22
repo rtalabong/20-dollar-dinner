@@ -1,0 +1,855 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.79468293,40.71026751 ]
+    },
+    "properties": {
+    "Establishment":"Tong - Bengali Street Food",
+    "Google maps":"https://maps.app.goo.gl/XoPVueJdjUeAR1Td7",
+    "Read on Hellgate":"https://hellgatenyc.com/unforgettable-bangladeshi-fuchka-at-tong/",
+    "Address":"169 Street Station, Jamaica, NY 11432",
+    "Borough":"Queens",
+    "Neighborhood":"Jamaica",
+    "Cuisine":"Bengali",
+    "Specialty":"Fuchka"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9225762,40.6981647 ]
+    },
+    "properties": {
+    "Establishment":"Plaza Ortega",
+    "Google maps":"https://maps.app.goo.gl/Nj6sCCojSUrqM9Tn9",
+    "Read on Hellgate":"https://hellgatenyc.com/20-dinner-terrific-tacos-tortas-and-gringas-at-bushwicks-plaza-ortega/",
+    "Address":"140 Stanhope St, Brooklyn, NY 11221",
+    "Borough":"Brooklyn",
+    "Neighborhood":"Bushwick",
+    "Cuisine":"Mexican",
+    "Specialty":"Tacos, tortas, and gringas"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9831962,40.7657643 ]
+    },
+    "properties": {
+    "Establishment":"Dave's Hot Chicken",
+    "Google maps":"https://maps.app.goo.gl/N1Hzub8vzpG9r8K38",
+    "Read on Hellgate":"https://hellgatenyc.com/20-dinner-daves-hot-chicken-seriously-good-bird/",
+    "Address":"944 8th Ave, New York, NY 10019",
+    "Borough":"Manhattan",
+    "Neighborhood":"Midtown",
+    "Cuisine":"American",
+    "Specialty":"Chicken tenders"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.99013418,40.74113107 ]
+    },
+    "properties": {
+    "Establishment":"S & P Lunch",
+    "Google maps":"https://maps.app.goo.gl/2rTVPWBVyAro4ztH6",
+    "Read on Hellgate":"https://hellgatenyc.com/20-dinner-court-street-grocers-guys-save-sacred-sandwich-space-eisenbergs/",
+    "Address":"174 5th Ave, New York, NY 10010",
+    "Borough":"Manhattan",
+    "Neighborhood":"Flatiron",
+    "Cuisine":"",
+    "Specialty":"Sandwiches"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.98251293,40.7609649 ]
+    },
+    "properties": {
+    "Establishment":"Urban Hawker",
+    "Google maps":"https://maps.app.goo.gl/tT6UjeWc151mcGmv9",
+    "Read on Hellgate":"https://hellgatenyc.com/20-dollar-dinner-urban-hawker-market/",
+    "Address":"135 W 50th St, New York, NY 10020",
+    "Borough":"Manhattan",
+    "Neighborhood":"Midtown",
+    "Cuisine":"Singaporean",
+    "Specialty":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.994292,40.7184773 ]
+    },
+    "properties": {
+    "Establishment":"Burger By Day",
+    "Google maps":"https://maps.app.goo.gl/yBxZhvmU9bTBHDyz7",
+    "Read on Hellgate":"https://hellgatenyc.com/20-dinner-nycs-best-new-burger-is-in-chinatown/",
+    "Address":"242 Grand St, New York, NY 10002",
+    "Borough":"Manhattan",
+    "Neighborhood":"Chinatown",
+    "Cuisine":"",
+    "Specialty":"Burgers"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.98295622,40.69101409 ]
+    },
+    "properties": {
+    "Establishment":"Baby's Buns and Buckets",
+    "Google maps":"https://maps.app.goo.gl/WDCD2Z5Umex8ktpc6",
+    "Read on Hellgate":"https://hellgatenyc.com/20-dinner-babys-buns-buckets/",
+    "Address":"445 Albee Square W, Brooklyn, NY 11201",
+    "Borough":"Brooklyn",
+    "Neighborhood":"Downtown Brooklyn",
+    "Cuisine":"Thai",
+    "Specialty":"Thai sliders"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9919839,40.7437079 ]
+    },
+    "properties": {
+    "Establishment":"Everytable",
+    "Google maps":"https://maps.app.goo.gl/d3zVfKiZhRD6UWEW7",
+    "Read on Hellgate":"https://hellgatenyc.com/20-dinner-everytable/",
+    "Address":"750 6th Ave, New York, NY 10010",
+    "Borough":"Manhattan",
+    "Neighborhood":"Flatiron",
+    "Cuisine":"",
+    "Specialty":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.912221,40.7057714 ]
+    },
+    "properties": {
+    "Establishment":"Gunther's",
+    "Google maps":"https://maps.app.goo.gl/YT56Mjpt3up37qe99",
+    "Read on Hellgate":"https://hellgatenyc.com/20-dinner-gunthers-soup-queen-farewell-bushwick/",
+    "Address":"487 Seneca Ave, Ridgewood, NY 11385",
+    "Borough":"Queens",
+    "Neighborhood":"Ridgewood",
+    "Cuisine":"",
+    "Specialty":"Soups"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9925388,40.6840037 ]
+    },
+    "properties": {
+    "Establishment":"Bobbi's Italian beef",
+    "Google maps":"https://maps.app.goo.gl/pPTPjimQDDgecxfu6",
+    "Read on Hellgate":"https://hellgatenyc.com/20-dinner-bobbis-italian-beef/",
+    "Address":"228 Smith St, Brooklyn, NY 11231",
+    "Borough":"Brooklyn",
+    "Neighborhood":"Cobble Hill",
+    "Cuisine":"Italian",
+    "Specialty":"Sandwiches"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.00586575,40.75131488 ]
+    },
+    "properties": {
+    "Establishment":"Olly Olly",
+    "Google maps":"https://maps.app.goo.gl/eJHg3C4rTbdHvCGT6",
+    "Read on Hellgate":"https://hellgatenyc.com/20-dollar-dinner-olly-olly/",
+    "Address":"601 W 26th St, New York, NY 10001",
+    "Borough":"Manhattan",
+    "Neighborhood":"Chelsea",
+    "Cuisine":"",
+    "Specialty":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9907069,40.6912119 ]
+    },
+    "properties": {
+    "Establishment":"Next Stop Vegan",
+    "Google maps":"https://maps.app.goo.gl/83Zw3qiGGqosgBBL7",
+    "Read on Hellgate":"https://hellgatenyc.com/next-stop-vegan-brings-next-level-plant-based-dominican-food-to-downtown-brooklyn/",
+    "Address":"88 Livingston St, Brooklyn, NY 11201",
+    "Borough":"Brooklyn",
+    "Neighborhood":"Downtown Brooklyn",
+    "Cuisine":"Comfort Food",
+    "Specialty":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.0008623,40.7190632 ]
+    },
+    "properties": {
+    "Establishment":"Mucho Sarap",
+    "Google maps":"https://maps.app.goo.gl/QCtCjK2NFaPmPNqAA",
+    "Read on Hellgate":"https://hellgatenyc.com/20-dinner-mucho-sarap-canal-street/",
+    "Address":"265 Canal St, New York, NY 10013",
+    "Borough":"Manhattan",
+    "Neighborhood":"SoHo",
+    "Cuisine":"Filipino",
+    "Specialty":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.921528,40.7521249 ]
+    },
+    "properties": {
+    "Establishment":"Rokstar Chicken",
+    "Google maps":"https://maps.app.goo.gl/Z5gjDkn5bQBE7ZLN9",
+    "Read on Hellgate":"https://hellgatenyc.com/20-dinner-rokstar-chicken/",
+    "Address":"4202 Northern Blvd Located in front of Food Bazaar Supermarket, Long Island City, NY 11101",
+    "Borough":"Queens",
+    "Neighborhood":"Long Island City",
+    "Cuisine":"Korean",
+    "Specialty":"Chicken"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.91779194,40.83255805 ]
+    },
+    "properties": {
+    "Establishment":"Papaye",
+    "Google maps":"https://maps.app.goo.gl/YAfWpwkdt79vWWoz7",
+    "Read on Hellgate":"https://hellgatenyc.com/20-dinner-papaye-the-bronx/",
+    "Address":"196 McClellan St, Bronx, NY 10456",
+    "Borough":"The Bronx",
+    "Neighborhood":"Concourse",
+    "Cuisine":"Ghanaian",
+    "Specialty":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.911119,40.7031968 ]
+    },
+    "properties": {
+    "Establishment":"Mama Yoshi Mini Mart",
+    "Google maps":"https://maps.app.goo.gl/KG4gNhjqX7pZ1QgR8",
+    "Read on Hellgate":"https://hellgatenyc.com/chicken-katsu-at-yoshi-mini-mart-ridgewood/",
+    "Address":"17-11 Grove St, Ridgewood, NY 11385",
+    "Borough":"Queens",
+    "Neighborhood":"Ridgewood",
+    "Cuisine":"Japanese",
+    "Specialty":"Katsu sandwich"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9026985,40.7475652 ]
+    },
+    "properties": {
+    "Establishment":"Zhego",
+    "Google maps":"https://maps.app.goo.gl/Q3aKBCPMWZ5zDbCS7",
+    "Read on Hellgate":"https://hellgatenyc.com/zhego-fantastic-bhutanese-feast-woodside-queens/",
+    "Address":"38-4 61st St, Woodside, NY 11377",
+    "Borough":"Queens",
+    "Neighborhood":"Woodside",
+    "Cuisine":"Bhutanese",
+    "Specialty":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9104028,40.7042332 ]
+    },
+    "properties": {
+    "Establishment":"Velma",
+    "Google maps":"https://maps.app.goo.gl/K2Bmn5kANqah7Y27A",
+    "Read on Hellgate":"https://hellgatenyc.com/gloriously-gooey-slices-and-great-vibes-at-velma-in-ridgewood/",
+    "Address":"584 Seneca Ave, Ridgewood, NY 11385",
+    "Borough":"Queens",
+    "Neighborhood":"Ridgewood",
+    "Cuisine":"Italian",
+    "Specialty":"Pizzas"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.0016758,40.7325286 ]
+    },
+    "properties": {
+    "Establishment":"Lin & Daughters",
+    "Google maps":"https://maps.app.goo.gl/daFK6kCgefWK4tUz7",
+    "Read on Hellgate":"https://hellgatenyc.com/lin-and-daughters-west-village/",
+    "Address":"181 West 4th Street, New York, NY 10014",
+    "Borough":"Manhattan",
+    "Neighborhood":"West Village",
+    "Cuisine":"Chinese",
+    "Specialty":"Noodles and dumplings"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.98049125,40.57486142 ]
+    },
+    "properties": {
+    "Establishment":"Doña Zita",
+    "Google maps":"https://maps.app.goo.gl/ZQqUHwDgAcCBooZh7",
+    "Read on Hellgate":"https://hellgatenyc.com/nycs-best-cemitas-coney-island/",
+    "Address":"1221 Bowery St, Brooklyn, NY 11224",
+    "Borough":"Brooklyn",
+    "Neighborhood":"Coney Island",
+    "Cuisine":"Mexican",
+    "Specialty":"Cemitas"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8309068,40.7600032 ]
+    },
+    "properties": {
+    "Establishment":"Old Luo Yang",
+    "Google maps":"https://maps.app.goo.gl/kitTZyaAyQWvE57d6",
+    "Read on Hellgate":"https://hellgatenyc.com/flushing-cold-noodle-mall-stall-favorite-old-luo-yang-gets-its-own-storefront/",
+    "Address":"135-42 39th Ave, Flushing, NY 11354",
+    "Borough":"Queens",
+    "Neighborhood":"Flushing",
+    "Cuisine":"Chinese",
+    "Specialty":"Noodles"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9405452,40.7171407 ]
+    },
+    "properties": {
+    "Establishment":"Taste of Heaven",
+    "Google maps":"https://maps.app.goo.gl/kBEAVDhpyosA7gvz8",
+    "Read on Hellgate":"https://hellgatenyc.com/if-you-want-a-taste-of-heaven-you-must-go-to-east-williamsburg/",
+    "Address":"251 Jackson St, Brooklyn, NY 11211",
+    "Borough":"Brooklyn",
+    "Neighborhood":"East Williamsburg",
+    "Cuisine":"Comfort Food",
+    "Specialty":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9501033,40.6764452 ]
+    },
+    "properties": {
+    "Establishment":"Akara House",
+    "Google maps":"https://maps.app.goo.gl/J6qB8DE5XzvvPJRH6",
+    "Read on Hellgate":"https://hellgatenyc.com/nigerian-street-food-akara-house/",
+    "Address":"642 Nostrand Ave, Brooklyn, NY 11216",
+    "Borough":"Brooklyn",
+    "Neighborhood":"Crown Heights",
+    "Cuisine":"Nigerian",
+    "Specialty":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9591041,40.7170234 ]
+    },
+    "properties": {
+    "Establishment":"Big Wong",
+    "Google maps":"https://maps.app.goo.gl/JDzsj7LFLizpNUDv6",
+    "Read on Hellgate":"https://hellgatenyc.com/big-wong-hits-williamsburg/",
+    "Address":"135b N 5th St, Brooklyn, NY 11249",
+    "Borough":"Brooklyn",
+    "Neighborhood":"Williamsburg",
+    "Cuisine":"Chinese",
+    "Specialty":"Roast duck"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9794066,40.7278776 ]
+    },
+    "properties": {
+    "Establishment":"The York",
+    "Google maps":"https://maps.app.goo.gl/uRdBBuYZfSbjFBxk8",
+    "Read on Hellgate":"https://hellgatenyc.com/the-york-burgers/",
+    "Address":"186 Avenue B, New York, NY 10009",
+    "Borough":"Manhattan",
+    "Neighborhood":"East Village",
+    "Cuisine":"",
+    "Specialty":"Burgers"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.933617,40.7026008 ]
+    },
+    "properties": {
+    "Establishment":"Chiangmai Diner & Bar",
+    "Google maps":"https://maps.app.goo.gl/oTxJ7V62P9Ko5L4Y7",
+    "Read on Hellgate":"https://hellgatenyc.com/chiang-mai-fantastic-thai-bushwick/",
+    "Address":"942 Flushing Ave, Brooklyn, NY 11206",
+    "Borough":"Brooklyn",
+    "Neighborhood":"Bushwick",
+    "Cuisine":"Thai",
+    "Specialty":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.0028297,40.6834523 ]
+    },
+    "properties": {
+    "Establishment":"Sea & Soil",
+    "Google maps":"https://maps.app.goo.gl/rR3uhPZTxfrhkRCW8",
+    "Read on Hellgate":"https://hellgatenyc.com/wildly-delicious-worker-owned-brooklyns-new-sandwich-shop-sea-and-soil/",
+    "Address":"102 President St, Brooklyn, NY 11231",
+    "Borough":"Brooklyn",
+    "Neighborhood":"Carroll Gardens",
+    "Cuisine":"",
+    "Specialty":"Sandwiches"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9980045,40.7145739 ]
+    },
+    "properties": {
+    "Establishment":"Mabu Cafe",
+    "Google maps":"https://maps.app.goo.gl/nxrjzbFyHPNndXDV9",
+    "Read on Hellgate":"https://hellgatenyc.com/nycs-hottest-club-mabu-cafe-doyers/",
+    "Address":"18 Doyers St, New York, NY 10013",
+    "Borough":"Manhattan",
+    "Neighborhood":"Chinatown",
+    "Cuisine":"Hong Kong",
+    "Specialty":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.95694496,40.72788945 ]
+    },
+    "properties": {
+    "Establishment":"Taqueria Ramirez",
+    "Google maps":"https://maps.app.goo.gl/AbnNaLZX26ScKACo6",
+    "Read on Hellgate":"https://hellgatenyc.com/taqueria-ramirez-al-pastor-burger/",
+    "Address":"94 Franklin St, Brooklyn, NY 11222",
+    "Borough":"Brooklyn",
+    "Neighborhood":"Greenpoint",
+    "Cuisine":"Mexican",
+    "Specialty":"Tacos"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9860938,40.6769277 ]
+    },
+    "properties": {
+    "Establishment":"Kiosko 787",
+    "Google maps":"https://maps.app.goo.gl/3vFqzQ3ssikud7gKA",
+    "Read on Hellgate":"https://hellgatenyc.com/killer-puerto-rican-food-at-kiosko-787-gowanus/",
+    "Address":"488 Carroll St, Brooklyn, NY 11215",
+    "Borough":"Brooklyn",
+    "Neighborhood":"Gowanus",
+    "Cuisine":"Puerto Rican",
+    "Specialty":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9881729,40.7286439 ]
+    },
+    "properties": {
+    "Establishment":"Funzi's Pizzeria",
+    "Google maps":"https://maps.app.goo.gl/B9Xdcn2VC1q7XvmFA",
+    "Read on Hellgate":"https://hellgatenyc.com/funzis-pizzeria-brings-excellent-slices-to-st-marks-place/",
+    "Address":"36 St Marks Pl, New York, NY 10003",
+    "Borough":"Manhattan",
+    "Neighborhood":"East Village",
+    "Cuisine":"Italian",
+    "Specialty":"Pizzas"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9482385,40.7504577 ]
+    },
+    "properties": {
+    "Establishment":"Sofun noodle bar",
+    "Google maps":"https://maps.app.goo.gl/onnbDRDhvhcyV4Fp7",
+    "Read on Hellgate":"https://hellgatenyc.com/hunan-slurp-sofun-long-island-city/",
+    "Address":"4340 12th St, Long Island City, NY 11101",
+    "Borough":"Queens",
+    "Neighborhood":"Long Island City",
+    "Cuisine":"Chinese",
+    "Specialty":"Noodles"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9086148,40.7067463 ]
+    },
+    "properties": {
+    "Establishment":"Salty Lunch Lady's Little Luncheonette",
+    "Google maps":"https://maps.app.goo.gl/YbFtP1Gvj89Us82N6",
+    "Read on Hellgate":"https://hellgatenyc.com/salty-lunch-lady-dria-atencio-killer-sandwiches-cakes-ridgewood/",
+    "Address":"565 Woodward Ave, Ridgewood, NY 11385",
+    "Borough":"Queens",
+    "Neighborhood":"Ridgewood",
+    "Cuisine":"",
+    "Specialty":"Sandwiches and cakes"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9649307,40.7156185 ]
+    },
+    "properties": {
+    "Establishment":"Mama Lee - Williamsburg",
+    "Google maps":"https://maps.app.goo.gl/qwGmLPXu23DTGEgM8",
+    "Read on Hellgate":"https://hellgatenyc.com/mama-lee-taiwanese-williamsburg/",
+    "Address":"66 Grand St, Brooklyn, NY 11249",
+    "Borough":"Brooklyn",
+    "Neighborhood":"Williamsburg",
+    "Cuisine":"Taiwanese",
+    "Specialty":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9527208,40.7718429 ]
+    },
+    "properties": {
+    "Establishment":"Super Taste - Upper East Side",
+    "Google maps":"https://maps.app.goo.gl/WF8ToLchqq3e8h4y8",
+    "Read on Hellgate":"https://hellgatenyc.com/super-taste-upper-east-side/",
+    "Address":"1502 1st Ave., New York, NY 10075",
+    "Borough":"Manhattan",
+    "Neighborhood":"Upper East Side",
+    "Cuisine":"Chinese",
+    "Specialty":"Noodles"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9880691,40.7325369 ]
+    },
+    "properties": {
+    "Establishment":"Yellow Rose",
+    "Google maps":"https://maps.app.goo.gl/G3HML3d419L4cYxq6",
+    "Read on Hellgate":"https://hellgatenyc.com/tacombi-yellow-rose-taco-showdown-east-village-nyc/",
+    "Address":"102 3rd Ave, New York, NY 10003",
+    "Borough":"Manhattan",
+    "Neighborhood":"East Village",
+    "Cuisine":"Tex-Mex",
+    "Specialty":"Tacos"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9909505,40.7603697 ]
+    },
+    "properties": {
+    "Establishment":"Lovely's Old Fashioned",
+    "Google maps":"https://maps.app.goo.gl/4JWvuJhPfyGB3W7c9",
+    "Read on Hellgate":"https://hellgatenyc.com/lovelys-old-fashioned-burger-fries-hells-kitchen/",
+    "Address":"642 9th Ave, New York, NY 10036",
+    "Borough":"Manhattan",
+    "Neighborhood":"Hell's Kitchen",
+    "Cuisine":"",
+    "Specialty":"Hamburgers"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9156366,40.8703766 ]
+    },
+    "properties": {
+    "Establishment":"Patok by Rach",
+    "Google maps":"https://maps.app.goo.gl/CgtfsYE3mQ5GBXth6",
+    "Read on Hellgate":"https://hellgatenyc.com/patok-by-rach-in-inwood-review/",
+    "Address":"5057 Broadway, New York, NY 10034",
+    "Borough":"Manhattan",
+    "Neighborhood":"Inwood",
+    "Cuisine":"Filipino",
+    "Specialty":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9112416,40.6813472 ]
+    },
+    "properties": {
+    "Establishment":"Bread and Butter",
+    "Google maps":"https://maps.app.goo.gl/3boMgSfhdMs6G3cc7",
+    "Read on Hellgate":"https://hellgatenyc.com/bakery-bread-and-butter-bed-stuy-review/",
+    "Address":"53 Rockaway Ave, Brooklyn, NY 11233",
+    "Borough":"Brooklyn",
+    "Neighborhood":"Bedford-Stuyvesant",
+    "Cuisine":"",
+    "Specialty":"Baked goods"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9852756,40.7189185 ]
+    },
+    "properties": {
+    "Establishment":"Cloud Vietnamese Restaurant",
+    "Google maps":"https://maps.app.goo.gl/PQMM5U8dVZrUTDYg8",
+    "Read on Hellgate":"https://hellgatenyc.com/cloud-vietnamese-lower-east-side-clinton-street/",
+    "Address":"79 Clinton St, New York, NY 10002",
+    "Borough":"Manhattan",
+    "Neighborhood":"Lower East Side",
+    "Cuisine":"Vietnamese",
+    "Specialty":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9826788,40.7276569 ]
+    },
+    "properties": {
+    "Establishment":"El Primo",
+    "Google maps":"https://maps.app.goo.gl/Q3yrKivMiQiTBFAB6",
+    "Read on Hellgate":"https://hellgatenyc.com/el-primo-brings-top-notch-birria-delights-tacos-nyc/",
+    "Address":"151 Avenue A, New York, NY 10009",
+    "Borough":"Manhattan",
+    "Neighborhood":"East Village",
+    "Cuisine":"Mexican",
+    "Specialty":"Tacos and birria"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8900237,40.7458825 ]
+    },
+    "properties": {
+    "Establishment":"Taste of Himalaya",
+    "Google maps":"https://maps.app.goo.gl/uxjT6jwPmXU5es4k6",
+    "Read on Hellgate":"https://hellgatenyc.com/taste-of-himalaya-elmhurst-queens-so-good/",
+    "Address":"75-16 Broadway, Elmhurst, NY 11373",
+    "Borough":"Queens",
+    "Neighborhood":"Elmhurst",
+    "Cuisine":"Himalayan",
+    "Specialty":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9596512,40.7298638 ]
+    },
+    "properties": {
+    "Establishment":"Taku Sando",
+    "Google maps":"https://maps.app.goo.gl/TK9QQPF4HqcphMmW6",
+    "Read on Hellgate":"https://hellgatenyc.com/taku-sando-japanese-greenpoint-nyc/",
+    "Address":"29 Greenpoint Ave, Brooklyn, NY 11222",
+    "Borough":"Brooklyn",
+    "Neighborhood":"Greenpoint",
+    "Cuisine":"Japanese",
+    "Specialty":"Sandwiches"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.0025767,40.7280142 ]
+    },
+    "properties": {
+    "Establishment":"Hamburger America",
+    "Google maps":"https://maps.app.goo.gl/j1BcEwewta9YBBNQ8",
+    "Read on Hellgate":"https://hellgatenyc.com/hamburger-america-george-motz-soho-nyc/",
+    "Address":"155 W Houston St, New York, NY 10012",
+    "Borough":"Manhattan",
+    "Neighborhood":"SoHo",
+    "Cuisine":"American",
+    "Specialty":"Burgers"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9876243,40.7643836 ]
+    },
+    "properties": {
+    "Establishment":"Hyderabadi Zaiqa",
+    "Google maps":"https://maps.app.goo.gl/xJLjBcjwQUiE4zqf7",
+    "Read on Hellgate":"https://hellgatenyc.com/hyderabadi-zaiqa-hells-kitchen-best-biryani/",
+    "Address":"366 W 52nd St, New York, NY 10019",
+    "Borough":"Manhattan",
+    "Neighborhood":"Hell's Kitchen",
+    "Cuisine":"Indian",
+    "Specialty":"Biryani"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9429046,40.6920119 ]
+    },
+    "properties": {
+    "Establishment":"Sonbul",
+    "Google maps":"https://maps.app.goo.gl/N1S5XHMcwQ2MgNWz8",
+    "Read on Hellgate":"https://hellgatenyc.com/sonbul-korean-food-burly-bed-stuy/",
+    "Address":"356 Throop Ave, Brooklyn, NY 11221",
+    "Borough":"Brooklyn",
+    "Neighborhood":"Bedford-Stuyvesant",
+    "Cuisine":"Korean",
+    "Specialty":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9252478,40.7420136 ]
+    },
+    "properties": {
+    "Establishment":"Spicy Nepal",
+    "Google maps":"https://maps.app.goo.gl/rQos95Ah4ErEN4cs8",
+    "Read on Hellgate":"https://hellgatenyc.com/spicy-nepal-sunnyside-review/",
+    "Address":"39-35 47th Ave, Sunnyside, NY 11104",
+    "Borough":"Queens",
+    "Neighborhood":"Sunnyside",
+    "Cuisine":"Nepali",
+    "Specialty":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.979778,40.7231487 ]
+    },
+    "properties": {
+    "Establishment":"El Rinconcito",
+    "Google maps":"https://maps.app.goo.gl/83GPf2quDnKtndZcA",
+    "Read on Hellgate":"https://hellgatenyc.com/el-rinconcito-alphabet-city-review/",
+    "Address":"75 Loisaida Ave, New York, NY 10009",
+    "Borough":"Manhattan",
+    "Neighborhood":"Alphabet City",
+    "Cuisine":"Latin American",
+    "Specialty":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.93707545,40.75090948 ]
+    },
+    "properties": {
+    "Establishment":"Fer",
+    "Google maps":"https://maps.app.goo.gl/7Ah7Xx9pMsVXDxFUA",
+    "Read on Hellgate":"https://hellgatenyc.com/dutch-kills-fer-sichuan-restaurant-review/",
+    "Address":"41-10 29th St, Long Island City, NY 11101",
+    "Borough":"Queens",
+    "Neighborhood":"Long Island City",
+    "Cuisine":"Chinese",
+    "Specialty":"Noodles"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.00145934,40.72920846 ]
+    },
+    "properties": {
+    "Establishment":"Cauldron Chicken",
+    "Google maps":"https://maps.app.goo.gl/yZpd3Mq2utzFihMbA",
+    "Read on Hellgate":"https://hellgatenyc.com/cauldron-chicken-dao-kou-shou-ji-bleecker-street-nyc/",
+    "Address":"190 Bleecker St, New York, NY 10012",
+    "Borough":"Manhattan",
+    "Neighborhood":"Greenwich Village",
+    "Cuisine":"Chinese",
+    "Specialty":"Chicken"
+    }
+  }
+]
+}

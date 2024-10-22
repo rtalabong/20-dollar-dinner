@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>MAP: $20 Dinners</title>
+
+    <!-- Google fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@400;700&display=swap" rel="stylesheet">
+
+    <!-- Mapbox CSS and JS -->
+    <link href="https://api.mapbox.com/mapbox-gl-js/v3.7.0/mapbox-gl.css" rel="stylesheet">
+    <script src="https://api.mapbox.com/mapbox-gl-js/v3.7.0/mapbox-gl.js"></script>
+
+    <style>
+        body {
+            margin: 0;
+            font-size: 18px;
+            font-family: 'Roboto', sans-serif;
+            text-rendering: optimizeLegibility;
+            padding-bottom: 3em;
+            padding-top: 2.5em;
+            color: #262626;
+        }
+
+        .content {
+            max-width: 640px;
+            margin: auto;
+        }
+
+        .header {
+            padding: 0em 0;
+        }
+
+        .byline {
+            font-size: 15px;
+        }
+
+        a {
+            color: #A8271E;
+        }
+
+        .footer {
+            background: #FFFFFF;
+            text-align: center;
+            font-size: 0.8em;
+            margin-top: 4em;
+            padding: 4em 0;
+        }
+
+        h1 {
+            font-family: 'Oswald', Arial, sans-serif;
+            font-weight: bold;
+            font-size: 4.5em;
+            line-height: 1.1;
+        }
+
+        .subhead {
+            font-family: 'Oswald', Arial, sans-serif;
+            font-size: 1.4em;
+        }
+
+        .full-width {
+            width: 100%;
+            text-align: center;
+            margin: 0 auto;
+        }
+
+        #map {
+            width: 80%;
+            height: 700px;
+            margin: 5em auto;
+            border: 1px solid #ccc;
+        }
+
+        /* Mobile styling */
+        @media (max-width: 640px) {
+            body {
+                font-size: 18px;
+            }
+
+            .content {
+                padding-left: 0.5em;
+                padding-right: 0.5em;
+            }
+
+            #map {
+                width: 100%;
+                height: 800px;
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <div class="content">
+        <div class="header">
+            <h1>MAP: 20$ dinners in New York City</h1>
+            <p class="subhead">Because fine dining is overrated—and your wallet agrees.</p>
+        </div>
+        <div class="byline">
+            <p>By <strong><a href="https://rambotalabong.com" target="_blank">Rambo Talabong</a></strong></p>
+        </div>
+        <p>In a city where the cost of a meal can leave your wallet crying for mercy, Hell Gate's "$20 Dinner" series is here to save you.</p>
+        <p>This map shows all the places Hell Gate has hit up for a decent dinner under $20. 
+        <p>From hole-in-the-wall joints to neighborhood gems, the series is about finding the soul of New York food without emptying your pockets—because let’s be real, rent’s already doing that.</p>
+        <p>The map not only gives you a handy way to find these spots but also lets you scope out which neighborhoods are down with affordable eats. Whether it's a greasy slice in Brooklyn, a loaded taco in Queens, or a bowl of something hot in Manhattan, this list proves that you don’t need a trust fund to eat well in New York City.</p>
+    </div>
+
+    <div class="full-width">
+        <div id="map"></div>
+    </div>
+
+    <div class="content">
+        <p>Hell Gate's not just about cheap eats—it’s about celebrating the scrappy, no-frills food culture that makes New York, well, New York. In a city where Michelin stars and overpriced small plates reign supreme, sometimes the best food is in the places where they just give a damn about flavor.</p>
+        <p>This map is your ticket to Hell Gate's journey through affordable dinners in NYC. </p>
+        <p>Whether you’re a broke student, a budget-conscious family, or just someone who’s tired of $40 entrees, Hell Gate's "$20 Dinner" series is for you. Let the map lead you to your next favorite spot—proof that, yes, you can still eat well in this city without blowing a paycheck.
+        </p>
+    </div>
+
+    <!-- Mapbox Initialization Script -->
+    <script src="map.js"></script>
+</body>
+
+</html>
